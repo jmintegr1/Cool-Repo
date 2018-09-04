@@ -8,3 +8,5 @@ Anki
 LOCI
 
 Chain linking
+
+Nice keep it going
